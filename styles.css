@@ -1,0 +1,7 @@
+.button-container .btn {
+  width: 150px;
+}
+img {
+  height: 250px;
+  object-fit: cover;
+}
